@@ -1,0 +1,27 @@
+input, button{
+    margin-top: 5px !important;
+    margin-bottom: 5px !important;
+}
+.imglogin{
+    width: 100%;
+    
+}
+.fotouser{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.livro{
+    border:0px;
+  
+}
+.precoatual{
+    position: absolute;
+    right: -350px;
+    top:0px;
+    font-size: 50pt;
+    color: rgba(255,0,0,0.5);
+    border-bottom: 1px solid red;
+}
